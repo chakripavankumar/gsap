@@ -1,4 +1,4 @@
 ## update info here
  as of now 
- gsap.to()=>✅
+ gsap.to()=>✅,
  gap.from()=>✅
