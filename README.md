@@ -4,3 +4,4 @@
  gap.from()=>✅,
  gsap.fromTo()=>✅,
  gsap.timrline()=>✅,
+ gsap.scrollTrigger()=>✅,

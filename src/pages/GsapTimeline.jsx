@@ -10,9 +10,9 @@ const GsapTimeline = () => {
   });
   useGSAP(()=>{
    timeline.to('#yellow-box' ,{
-    x:250,
+    x:550,
     rotation:360,
-    borderRadius:'100%',
+    borderRadius:'100% ',
     duration:2,
     ease:"back.inOut"
    })
@@ -20,7 +20,7 @@ const GsapTimeline = () => {
     x:500,
     scale:1,
     rotation:360 ,
-    borderRadius:'8px',
+    borderRadius:'2000px',
     duration:2,
     ease:'back.inOut'
    })
